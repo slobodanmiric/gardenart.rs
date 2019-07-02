@@ -285,15 +285,6 @@ footer a:hover {
 
 /* košenje trave */
 
-.jumbotron {
-    color: white;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
-        linear-gradient(0deg, #fff, transparent),
-        url(../images/lawn-mower-938555_640.jpg) no-repeat center;
-    background-size: cover;
-    height: 350px;
-}
-
 .jumbotron h2 {
     padding-top: 1em;
     padding-bottom: 1em;
@@ -349,6 +340,15 @@ footer a:hover {
 }
 
 /* Jumbotron na svim stranicama */
+
+.kosenje {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/lawn-mower-938555_640.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
 
 .cvece {
     color: white;
@@ -413,6 +413,23 @@ footer a:hover {
         url(../images/banner-875787_640.jpg) no-repeat center;
     background-size: cover;
     height: 260px;
+}
+
+.dovoz {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/dovoz_header.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.dovoz-vocke {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/vocke-header.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
 }
 
 

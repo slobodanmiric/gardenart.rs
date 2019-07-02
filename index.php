@@ -16,6 +16,14 @@
                 <li class="active"><a href="index.php"><b>NASLOVNA</b></a></li>
                 <li><a href="projektovanje.php"><b>PROJEKTOVANJE</b></a></li>
                 <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>REFERENCE</b> <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="reference-ciscenje-terena-dovoz-crnice-nasipanje-terena-nivelacija-i-sejanje-trave.php">Čišćenje terena, dovoz zemlje crnice, nasipanje terena, nivelacija i sejanje trave</a></li>
+                        <li><a href="reference-ciscenjeterena-dovoz-zemlje-crnice-nivelacija-sejanje-trave-i-sadnja-vocki.php">Čišćenje terena, dovoz zemlje crnice, nivelacija, sejanje trave i sadnja voćki</a></li>
+                        
+                    </ul>
+                </li>
+                <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>IZVOĐENJE</b> <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="zemljani-radovi.php">Zemljani radovi</a></li>
@@ -40,7 +48,6 @@
                         <li><a href="zastita-biljaka.php">Zaštita biljaka</a></li>
                     </ul>
                 </li>
-                <li><a href="reference.php"><b>REFERENCE</b></a></li>
                 <li><a href="kontakt.php"><b>KONTAKT</b></a></li>
             </ul>
         </div>
