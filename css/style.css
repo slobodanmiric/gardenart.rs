@@ -431,7 +431,67 @@ footer a:hover {
     background-size: cover;
     height: 350px;
 }
-
+.kultiviranje-sejanje-trave {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/header-kultiviranje-sejanje-trave.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.dovoz-crnice-teih-trava {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/Dovoz-zemlje-crnice-nasipanje-terena-nivelacija-i-postavljanje-tepih-trave-header.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.izrada-rundele {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/Izrada-rundele-od-stare-cigle-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.ugradnja-dekorativnog-jezerca {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/ugradnja-dekorativnog-jezerca-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.ozelenjavanje-zardinjera  {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/ozelenjavanje-zardinjera-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.ugradnja-dekorativnog-kamena {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/ugradnja-dekorativnog-kamena-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.izrada-kucice-za-bastenski-alat {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/izrada-kucice-za-bastenski-alat-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
 
 /* hover paketi  */
 
