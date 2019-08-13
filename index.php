@@ -30,6 +30,12 @@
                         <li><a href="reference-ozeljenjavanje-zardinjera.php">Ozelenjavanje žardinjera</a></li>
                         <li><a href="reference-izrada-kucice-za-bastenski-alat.php">Izrada kućice za baštenski alat</a></li>
                         <li><a href="reference-stalno-odrzavanje.php">Stalno održavanje</a></li>
+                        <li><a href="reference-pre-i-posle-kosenja.php">Pre i posle košenja</a></li>
+                        <li><a href="reference-vertikuliranje-travnjaka.php">Vertikuliranje travnjaka</a></li>
+                        <li><a href="reference-krcenje-trave-trimerima.php">Krčenje trave trimerima</a></li>
+                        <li><a href="reference-okopavanje-bastice.php">Okopavanje baštice</a></li>
+                        <li><a href="reference-pre-i-posle-orezivanja.php">Pre i posle orezivanja</a></li>
+                        <li><a href="reference-pre-i-posle-orezivanja-cetinara.php">Pre i posle orezivanja četinara</a></li>
                     </ul>
                 </li>
                 <li class="dropdown">

@@ -492,6 +492,34 @@ footer a:hover {
     background-position: center;
     height: 350px;
 }
+.pre-i-posle-kosenja {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/pre-i-posle-kosenja-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.vertikuliranje-travnjaka {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/vertikuliranje-travnjaka-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.okopavanje-bastice {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/okopavanje-bastice-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
 
 /* hover paketi  */
 
