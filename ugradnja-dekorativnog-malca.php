@@ -49,7 +49,7 @@
 </nav>
 
 
-<div class="jumbotron lisce">
+<div class="jumbotron izvodjenje-ugradnja-dekorativnog-malca">
     <div class="container">
         <h2 class="text-center wow pulse">Ugradnja dekorativnog malča</h2>
         <p class="text-center">

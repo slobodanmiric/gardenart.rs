@@ -49,7 +49,7 @@
 </nav>
 
 
-<div class="jumbotron lisce">
+<div class="jumbotron zemljani-radovi">
     <div class="container">
         <h2 class="text-center wow pulse">Zemljani radovi</h2>
         <p class="text-center">

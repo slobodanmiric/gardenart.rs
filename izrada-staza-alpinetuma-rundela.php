@@ -49,7 +49,7 @@
 </nav>
 
 
-<div class="jumbotron lisce">
+<div class="jumbotron izvodjenje-izrada-staza">
     <div class="container">
         <h2 class="text-center wow pulse">Izrada staza, alpinetuma i rundela</h2>
         <p class="text-center">

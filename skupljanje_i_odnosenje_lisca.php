@@ -49,7 +49,7 @@
 </nav>
 
 
-<div class="jumbotron lisce">
+<div class="jumbotron odrzavanje-skupljanje-lisca">
     <div class="container">
         <h2 class="text-center wow pulse">Skupljanje i odnošenje opalog lišća</h2>
         <p class="text-center">

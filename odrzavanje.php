@@ -60,146 +60,146 @@
 
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/stalno%20odrzavanje%201.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Stalno održavanje</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
+                    <a href="reference-stalno-odrzavanje.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/pre%20i%20posle%20kosenja%202.jpg" alt="img27" />
                 <figcaption>
-                    <h2><b>Pre i posle kosenja</b></h2>
-                    <a href="odrzavanje.php">View more</a>
+                    <h2><b>Pre i posle košenja</b></h2>
+                    <a href="reference-pre-i-posle-kosenja.php">View more</a>
                 </figcaption>
             </figure>
         </div>
 
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/vertikuliranje%20travnjaka%201.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Vertikuliranje travnjaka</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
+                    <a href="reference-vertikuliranje-travnjaka.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/krcenje%20trave%20trimerima%201.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Krčenje trave trimerima</b></h2>
-                    <a href="odrzavanje.php">View more</a>
+                    <a href="reference-krcenje-trave-trimerima.php">View more</a>
                 </figcaption>
             </figure>
         </div>
 
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/okopavanje%20bastice%204.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Okopavanje baštice</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
+                    <a href="reference-okopavanje-bastice.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/pre%20i%20posle%20spiralnog%20orezivanja%20tuja%206.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Pre i posle orezivanja</b></h2>
-                    <a href="odrzavanje.php">View more</a>
+                    <a href="reference-pre-i-posle-orezivanja.php">View more</a>
                 </figcaption>
             </figure>
         </div>
 
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/pre%20i%20posle%20orezivanja%20cetinara%2038.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Pre i posle orezivanja četinara</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
+                    <a href="reference-pre-i-posle-orezivanja-cetinara.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/pre%20i%20posle%20orezivanja%20cetinara%202.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Pre i posle spiralnog orezivanja tuja</b></h2>
-                    <a href="odrzavanje.php">View more</a>
+                    <a href="reference-pre-i-posle-spiralnog-orezivanja-tuja.php">View more</a>
                 </figcaption>
             </figure>
         </div>
 
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/pre%20i%20posle%20orezivanja%20zive%20ograde-ligustrum%209.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Pre i posle orezivanja žive ograde-ligustrum</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
+                    <a href="reference-pre-i-posle-orezivanja-zive-ograde.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/pre%20i%20posle%20orezivanja%20zive%20ograde-simsir%2025.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Pre i posle orezivanja žive ograde-šimšir</b></h2>
-                    <a href="odrzavanje.php">View more</a>
+                    <a href="reference-pre-i-posle-zive-ograde-simsir.php">View more</a>
                 </figcaption>
             </figure>
         </div>
 
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/pre%20i%20posle%20orezivanja%20zive%20ograde%20-%20tuje%208.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Pre i posle orezivanja žive ograde-tuje</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
+                    <a href="reference-pre-i-posle-orezivanja-zive-ograde-tuje.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/orezivanje%20zbunja%205.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Orezivanje žbunja</b></h2>
-                    <a href="odrzavanje.php">View more</a>
+                    <a href="reference-orezivanje-zbunja.php">View more</a>
                 </figcaption>
             </figure>
         </div>
 
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/rederence-zardinjere-odrzavanje.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Žardinjere</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
+                    <a href="reference-zardinjere.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/orezivanje-jabuke-kruske-header.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Pre i posle prolećnog orezivanja jabuka i krušaka</b></h2>
-                    <a href="odrzavanje.php">View more</a>
+                    <a href="reference-pre-i-posle-orezivanja-jabuke-i-kruske.php">View more</a>
                 </figcaption>
             </figure>
         </div>
 
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/letnje%20orezivanje%20kajsija%20%202.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Letnje orezivanje kajsija</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
+                    <a href="reference-letnje-orezivanje-kajsija.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/skupljanje%20lisca%201.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Skupljanje lišća</b></h2>
-                    <a href="odrzavanje.php">View more</a>
+                    <a href="reference-skupljanje-lisca.php">View more</a>
                 </figcaption>
             </figure>
         </div>
 
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/usisavanje-ciscenje%202.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Usisavanje, ciscenje</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
+                    <a href="reference-usisavanje-ciscenje.php">View more</a>
                 </figcaption>
             </figure>
             <!--

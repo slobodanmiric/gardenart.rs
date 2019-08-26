@@ -5,22 +5,25 @@
                 <h3 class="text-left wow pulse">Održavanje</h3>
                 <ul>
                     <li><a href="kosenje_trave_na_svim_vrstama_terena.php"><i class="fa fa-leaf"></i>&nbsp;Košenje trave na svim vrstama terena</a></li>
+                    <li><a href="vertikuliranje-prozracivanje-travnjaka.php"><i class="fa fa-leaf"></i>&nbsp;Vertikuliranje, prozračivanje travnjaka</a></li>
                     <li><a href="odrzavanje_i_nega_cveca.php"><i class="fa fa-leaf"></i>&nbsp;Održavanje i nega cveća</a></li>
-                    <li><a href="orezivanje_oblikovanje_zbunastog_rastinja.php"><i class="fa fa-leaf"></i>&nbsp;Orezivanje , oblikovanje žbunastog rastinja</a></li>
+                    <li><a href="orezivanje_oblikovanje_zbunastog_rastinja.php"><i class="fa fa-leaf"></i>&nbsp;Orezivanje - oblikovanje žbunastog rastinja</a></li>
                     <li><a href="orezivanje_svih_vrsta_zivih_ograda.php"><i class="fa fa-leaf"></i>&nbsp;Orezivanje svih vrsta živih ograda</a></li>
                     <li><a href="orezivanje_drveca_i_voca.php"><i class="fa fa-leaf"></i>&nbsp;Orezivanje drveća i voća</a></li>
                     <li><a href="skupljanje_i_odnosenje_lisca.php"><i class="fa fa-leaf"></i>&nbsp;Skupljanje i odnošenje opalog lišća</a></li>
+                    <li><a href="zastita-biljaka.php"><i class="fa fa-leaf"></i>&nbsp;Zaštita biljaka</a></li>
                 </ul>
             </div>
             <div class="col-md-4">
                 <h3 class="text-left wow pulse">Izvođenje</h3>
                 <ul>
-                    <li><a href="kosenje_trave_na_svim_vrstama_terena.php"><i class="fa fa-leaf"></i>&nbsp;Košenje trave na svim vrstama terena</a></li>
-                    <li><a href="odrzavanje_i_nega_cveca.php"><i class="fa fa-leaf"></i>&nbsp;Održavanje i nega cveća</a></li>
-                    <li><a href="orezivanje_oblikovanje_zbunastog_rastinja.php"><i class="fa fa-leaf"></i>&nbsp;Orezivanje , oblikovanje žbunastog rastinja</a></li>
-                    <li><a href="orezivanje_svih_vrsta_zivih_ograda.php"><i class="fa fa-leaf"></i>&nbsp;Orezivanje svih vrsta živih ograda</a></li>
-                    <li><a href="orezivanje_drveca_i_voca.php"><i class="fa fa-leaf"></i>&nbsp;Orezivanje drveća i voća</a></li>
-                    <li><a href="skupljanje_i_odnosenje_lisca.php"><i class="fa fa-leaf"></i>&nbsp;Skupljanje i odnošenje opalog lišća</a></li>
+                    <li><a href="zemljani-radovi.php"><i class="fa fa-leaf"></i>&nbsp;Zemljani radovi</a></li>
+                    <li><a href="sejanje-trave-postavljanje-tepih-travnjaka.php"><i class="fa fa-leaf"></i>&nbsp;Sejanje trave, postavljanje tepih travnjaka</a></li>
+                    <li><a href="sadnja-biljaka.php"><i class="fa fa-leaf"></i>&nbsp;Sadnja biljaka</a></li>
+                    <li><a href="ugradnja-dekorativnog-malca.php"><i class="fa fa-leaf"></i>&nbsp;Ugradnja dekorativnog malča</a></li>
+                    <li><a href="ugradnja-dekorativnog-kamena.php"><i class="fa fa-leaf"></i>&nbsp;Ugradnja dekorativnog kamena</a></li>
+                    <li><a href="izrada-staza-alpinetuma-rundela.php"><i class="fa fa-leaf"></i>&nbsp;Izrada staza, alpinetuma i rundela</a></li>
+                    <li><a href="zalivni-sistemi.php"><i class="fa fa-leaf"></i>&nbsp;Zalivni sistemi</a></li>
                 </ul>
             </div>
             <div class="col-md-4">

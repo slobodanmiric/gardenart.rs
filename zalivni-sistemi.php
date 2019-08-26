@@ -49,7 +49,7 @@
 </nav>
 
 
-<div class="jumbotron lisce">
+<div class="jumbotron izvodjenje-zalivni-sistemi">
     <div class="container">
         <h2 class="text-center wow pulse">Zalivni sistemi</h2>
         <p class="text-center">

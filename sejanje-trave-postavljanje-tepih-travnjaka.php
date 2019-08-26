@@ -49,9 +49,9 @@
 </nav>
 
 
-<div class="jumbotron lisce">
+<div class="jumbotron izvodjenje-sejanje-trave">
     <div class="container">
-        <h2 class="text-center wow pulse">Sejanje trave, postavljanje tepih travnjaka, slike</h2>
+        <h2 class="text-center wow pulse">Sejanje trave, postavljanje tepih travnjaka</h2>
         <p class="text-center">
             <a class="btn btn-warning btn-lg" href="kontakt.php">Poruči uslugu</a>
         </p>

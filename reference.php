@@ -59,14 +59,14 @@
     <div class="row tympanus">
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/Dovoz%20zemlje%20crnice%20nasipanje%20terena%20nivelacija%20i%20postavljanje%20tepih%20trave%2014.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Izvođenje</b> </h2>
                     <a href="izvodjenje.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/stalno%20odrzavanje%201.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Održavanje</b></h2>
                     <a href="odrzavanje.php">View more</a>

@@ -49,7 +49,7 @@
 </nav>
 
 
-<div class="jumbotron lisce">
+<div class="jumbotron odrzavanje-vertikuliranje-travnjaka">
     <div class="container">
         <h2 class="text-center wow pulse">Vertikuliranje, prozračivanje travnjaka</h2>
         <p class="text-center">

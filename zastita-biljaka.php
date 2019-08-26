@@ -49,7 +49,7 @@
 </nav>
 
 
-<div class="jumbotron lisce">
+<div class="jumbotron odrzavanje-zastita-biljaka">
     <div class="container">
         <h2 class="text-center wow pulse">Zaštita biljaka</h2>
         <p class="text-center">

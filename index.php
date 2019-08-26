@@ -11,33 +11,10 @@
             </button>
 
         </div>
-        <div id="navbar" class="collapse navbar-collapse navbar-left">
+         <div id="navbar" class="collapse navbar-collapse navbar-left">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="index.php"><b>NASLOVNA</b></a></li>
                 <li><a href="projektovanje.php"><b>PROJEKTOVANJE</b></a></li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>REFERENCE</b> <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="reference-ciscenje-terena-dovoz-crnice-nasipanje-terena-nivelacija-i-sejanje-trave.php">Čišćenje terena, dovoz zemlje crnice, nasipanje terena, nivelacija i sejanje trave</a></li>
-                        <li><a href="reference-ciscenjeterena-dovoz-zemlje-crnice-nivelacija-sejanje-trave-i-sadnja-vocki.php">Čišćenje terena, dovoz zemlje crnice, nivelacija, sejanje trave i sadnja voćki</a></li>
-                        <li><a href="reference-ciscenje-terena-izrada-poplocanja-priprema-zemlje-za-sejanje-i-sejanje-trave.php">Čišćenje terena, izrada popločanja, priprema zemlje za sejanje i sejanje trave</a></li>
-                        <li><a href="reference-kultiviranje-priprema-zemlje-za-sejanje-i-sejanje-trave.php">Kultiviranje, priprema zemlje za sejanje i sejanje trave</a></li>
-                        <li><a href="reference-dovoz-zemlje-crnice-nasipanje-terena-nivelacija-i-postavljanje-tepih-trave.php">Dovoz zemlje crnice, nasipanje terena, nivelacija i postavljanje tepih trave</a></li>
-                        <li><a href="reference-priprema-i-ugradnja-dekorativnog-malca.php">Priprema i ugradnja dekorativnog malča</a></li>
-                        <li><a href="reference-ugradnja-dekorativnog-kamena.php">Ugradnja dekorativnog kamena(rizle)</a></li>
-                        <li><a href="reference-izrada-rundele-od-stare-cigle.php">Izrada rundele od stare cigle</a></li>
-                        <li><a href="reference-ugradnja-dekorativnog-jezerca.php">Ugradnja dekorativnog jezerca</a></li>
-                        <li><a href="reference-ozeljenjavanje-zardinjera.php">Ozelenjavanje žardinjera</a></li>
-                        <li><a href="reference-izrada-kucice-za-bastenski-alat.php">Izrada kućice za baštenski alat</a></li>
-                        <li><a href="reference-stalno-odrzavanje.php">Stalno održavanje</a></li>
-                        <li><a href="reference-pre-i-posle-kosenja.php">Pre i posle košenja</a></li>
-                        <li><a href="reference-vertikuliranje-travnjaka.php">Vertikuliranje travnjaka</a></li>
-                        <li><a href="reference-krcenje-trave-trimerima.php">Krčenje trave trimerima</a></li>
-                        <li><a href="reference-okopavanje-bastice.php">Okopavanje baštice</a></li>
-                        <li><a href="reference-pre-i-posle-orezivanja.php">Pre i posle orezivanja</a></li>
-                        <li><a href="reference-pre-i-posle-orezivanja-cetinara.php">Pre i posle orezivanja četinara</a></li>
-                    </ul>
-                </li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>IZVOĐENJE</b> <span class="caret"></span></a>
                     <ul class="dropdown-menu">
@@ -63,6 +40,7 @@
                         <li><a href="zastita-biljaka.php">Zaštita biljaka</a></li>
                     </ul>
                 </li>
+                <li><a href="reference.php"><b>REFERENCE</b></a></li>
                 <li><a href="kontakt.php"><b>KONTAKT</b></a></li>
             </ul>
         </div>
@@ -186,18 +164,19 @@
     </div>
 </div>
 
-<div class="container usluge" style="padding: 60px 0 40px 0;">
+<div class="container reference-home" style="padding: 40px 0 40px 0;">
+    <h2 class="wow pulse">Pogledajte naše reference</h2>
     <div class="row tympanus">
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/Dovoz%20zemlje%20crnice%20nasipanje%20terena%20nivelacija%20i%20postavljanje%20tepih%20trave%2014.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Izvođenje</b> </h2>
                     <a href="izvodjenje.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/stalno%20odrzavanje%201.jpg" alt="img27" />
                 <figcaption>
                     <h2><b>Održavanje</b></h2>
                     <a href="odrzavanje.php">View more</a>

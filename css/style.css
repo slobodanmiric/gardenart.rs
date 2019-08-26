@@ -270,6 +270,20 @@ footer a:hover {
 .glyphicon-chevron-up:hover {
     color: darkorange;
 }
+.reference-home {
+    border: 1px solid darkorange;
+/*
+    border-right: 2px solid #1b5732;
+    border-left: 2px solid yellowgreen;
+    border-bottom: 2px solid #00964d;
+*/
+    margin-bottom: 60px;
+}
+.reference-home h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
 
 /********************* USLUGE *********************/
 .uvodni-text {
@@ -340,6 +354,86 @@ footer a:hover {
 }
 
 /* Jumbotron na svim stranicama */
+.zemljani-radovi {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/zemljani-radovi1.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.izvodjenje-sejanje-trave {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/sejanje-trave7.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.izvodjenje-sadnja-biljaka {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/sadnja-biljaka2.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.izvodjenje-ugradnja-dekorativnog-malca {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/ugradnja-dekorativnog-malca5.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.izvodjenje-ugradnja-dekorativnog-kamena {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/ugradnja-dekorativnog-kamena4.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.izvodjenje-izrada-staza {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/izrada-staza5.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.izvodjenje-zalivni-sistemi {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/zalivni-sistemi1.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.odrzavanje-vertikuliranje-travnjaka {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/vertikuliranje-prozracivanje-travnjaka1.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.odrzavanje-skupljanje-lisca {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/skupljanje-i-odnosenje-lisca1.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
+.odrzavanje-zastita-biljaka {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/zastit-biljaka3.jpg) no-repeat center;
+    background-size: cover;
+    height: 350px;
+}
 
 .kosenje {
     color: white;
@@ -392,7 +486,7 @@ footer a:hover {
     color: white;
     background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
         linear-gradient(0deg, #fff, transparent),
-        url(../images/leaf-1053914_640.jpg) no-repeat center;
+        url(../images/Dovoz%20zemlje%20crnice%20nasipanje%20terena%20nivelacija%20i%20postavljanje%20tepih%20trave%2014.jpg) no-repeat center;
     background-size: cover;
     height: 350px;
 }
@@ -519,7 +613,87 @@ footer a:hover {
     background-position: center;
     height: 350px;
 }
-
+.spiralno-orezivanje-tuja {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/spiralno-orezivanje-tuja-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.ligustrum {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/ligustrum-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.pre-i-posle-simsir {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/pre-posle-orezivanja-zive-ograde-simsir-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.orezivanje-zbunja {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/orezivanje-zbunja-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.zardinjere-header {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/zardinjere-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.jabuke-i-kruske {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/orezivanje-jabuke-kruske-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.letnje-orezivanje-kajsija {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/letnje-orezivanje-kajsija-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.usisavanje-ciscenje {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/usisavanje-ciscenje-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.skupljanje-lisca {
+     color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), transparent 90%),
+        linear-gradient(0deg, #fff, transparent),
+        url(../images/skupljanje-lisca-header.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
 
 /* hover paketi  */
 
@@ -790,6 +964,10 @@ input[type=checkbox] {
 
     div .grid {
         padding-bottom: 0;
+    }
+    
+    .map {
+        display: none;
     }
 
 }

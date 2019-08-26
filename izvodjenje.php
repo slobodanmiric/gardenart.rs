@@ -60,73 +60,108 @@
        
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/Dovoz%20zemlje%20crnice%20nasipanje%20terena%20nivelacija%20i%20sejanje%20trave%20%204.jpg" alt="img27" />
                 <figcaption>
-                    <h2><b>Zemljani &nbsp;&nbsp;radovi</b> </h2>
-                    <a href="zemljani-radovi.php">View more</a>
+                    <h2><b>Čiscenje terena, dovoz zemlje crnice, nasipanje terena, nivelacija i sejanje trave</b> </h2>
+                    <a href="reference-ciscenje-terena-dovoz-crnice-nasipanje-terena-nivelacija-i-sejanje-trave.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/ciscenje%20terena%20dovoz%20zemlje%20crnice%20nivelacija%20sejanje%20trave%20i%20sadnja%20vocki%208.jpg" alt="img27" />
                 <figcaption>
-                    <h2><b>Sejanje &nbsp;&nbsp;trave,&nbsp;&nbsp; postavljanje &nbsp;&nbsp;tepih &nbsp;&nbsp;travnjaka</b></h2>
-                    <a href="sejanje-trave-postavljanje-tepih-travnjaka.php">View more</a>
-                </figcaption>
-            </figure>
-        </div>
-        
-        <div class="grid">
-            <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
-                <figcaption>
-                    <h2><b>Sadnja&nbsp;&nbsp; biljaka</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
-                </figcaption>
-            </figure>
-            <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
-                <figcaption>
-                    <h2><b>Ugradnja &nbsp;&nbsp;dekorativnog &nbsp;&nbsp;malča</b></h2>
-                    <a href="odrzavanje.php">View more</a>
+                    <h2><b>Čišćenje terena, dovoz zemlje crnice, nivelacija, sejanje trave i sadnja voćki</b></h2>
+                    <a href="reference-ciscenjeterena-dovoz-zemlje-crnice-nivelacija-sejanje-trave-i-sadnja-vocki.php">View more</a>
                 </figcaption>
             </figure>
         </div>
         
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/ciscenje%20terena%20izrada%20poplocanja%20priprema%20zemlje%20za%20sejanje%20i%20sejanje%20trave%2021.jpg" alt="img27" />
                 <figcaption>
-                    <h2><b>Ugradnja&nbsp;&nbsp; dekorativnog&nbsp;&nbsp; kamena</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
+                    <h2><b>Čišćenje terena, izrada popločanja, priprema zemlje za sejanje i sejanje trave</b> </h2>
+                    <a href="reference-ciscenje-terena-izrada-poplocanja-priprema-zemlje-za-sejanje-i-sejanje-trave.php">View more</a>
                 </figcaption>
             </figure>
             <figure class="effect-apollo">
-                <img src="img/green-1026355_640-1.jpg" alt="img27" />
+                <img src="images/Kultiviranje%20priprema%20zemlje%20za%20sejanje%20i%20sejanje%20trave%208.jpg" alt="img27" />
                 <figcaption>
-                    <h2><b>Izrada &nbsp;&nbsp;staza, &nbsp;&nbsp;alpinetuma &nbsp;&nbsp;i&nbsp;&nbsp; rundela</b></h2>
-                    <a href="odrzavanje.php">View more</a>
+                    <h2><b>Kultiviranje, priprema zemlje za sejanje i sejanje trave</b></h2>
+                    <a href="reference-kultiviranje-priprema-zemlje-za-sejanje-i-sejanje-trave.php">View more</a>
                 </figcaption>
             </figure>
         </div>
         
         <div class="grid">
             <figure class="effect-apollo">
-                <img src="img/tulips-21620_640.jpg" alt="img27" />
+                <img src="images/Dovoz%20zemlje%20crnice%20nasipanje%20terena%20nivelacija%20i%20postavljanje%20tepih%20trave%2010.jpg" alt="img27" />
                 <figcaption>
-                    <h2><b>Zalivni &nbsp;&nbsp;sistemi</b> </h2>
-                    <a href="izvodjenje.php">View more</a>
+                    <h2><b>Dovoz zemlje crnice, nasipanje terena, nivelacija i postavljanje tepih trave</b> </h2>
+                    <a href="reference-dovoz-zemlje-crnice-nasipanje-terena-nivelacija-i-postavljanje-tepih-trave.php">View more</a>
+                </figcaption>
+            </figure>
+            <figure class="effect-apollo">
+                <img src="images/Priprema%20i%20ugradnja%20dekorativnog%20malca%20%2018.jpg" alt="img27" />
+                <figcaption>
+                    <h2><b>Priprema za ugradnju dekorativnog malča</b></h2>
+                    <a href="reference-priprema-i-ugradnja-dekorativnog-malca.php">View more</a>
+                </figcaption>
+            </figure>
+        </div>
+        
+        <div class="grid">
+            <figure class="effect-apollo">
+                <img src="images/ugradnja%20dekorativnog%20kamena%20rizle%208.jpg" alt="img27" />
+                <figcaption>
+                    <h2><b>Ugradnja dekorativnog kamena (rizle)</b> </h2>
+                    <a href="reference-ugradnja-dekorativnog-kamena.php">View more</a>
+                </figcaption>
+            </figure>
+            <figure class="effect-apollo">
+                <img src="images/Izrada%20rundele%20od%20stare%20cigle%201.jpg" alt="img27" />
+                <figcaption>
+                    <h2><b>Izrada rundele od stare cigle</b></h2>
+                    <a href="reference-izrada-rundele-od-stare-cigle.php">View more</a>
+                </figcaption>
+            </figure>
+        </div>
+        
+        <div class="grid">
+            <figure class="effect-apollo">
+                <img src="images/ugradnja%20dekorativnog%20jezerca%20%202.jpg" alt="img27" />
+                <figcaption>
+                    <h2><b>Ugradnja dekorativnog jezerca</b> </h2>
+                    <a href="reference-ugradnja-dekorativnog-jezerca.php">View more</a>
+                </figcaption>
+            </figure>
+            <figure class="effect-apollo">
+                <img src="images/ozelenjavanje%20zardinjera%207.jpg" alt="img27" />
+                <figcaption>
+                    <h2><b>Ozelenjavanje žardinjera</b></h2>
+                    <a href="reference-ozeljenjavanje-zardinjera.php">View more</a>
+                </figcaption>
+            </figure>
+        </div>
+        
+         <div class="grid">
+            <figure class="effect-apollo">
+                <img src="images/izrada%20kucice%20za%20bastenski%20alat%209.jpg" alt="img27" />
+                <figcaption>
+                    <h2><b>Izrada kućice za baštenski alat</b> </h2>
+                    <a href="reference-izrada-kucice-za-bastenski-alat.php">View more</a>
                 </figcaption>
             </figure>
 <!--
             <figure class="effect-apollo">
                 <img src="img/green-1026355_640-1.jpg" alt="img27" />
                 <figcaption>
-                    <h2><b>Ugradnja dekorativnog malča</b></h2>
-                    <a href="odrzavanje.php">View more</a>
+                    <h2><b>Ozelenjavanje žardinjera</b></h2>
+                    <a href="reference-ozeljenjavanje-zardinjera.php">View more</a>
                 </figcaption>
             </figure>
 -->
         </div>
+        
         
         
         

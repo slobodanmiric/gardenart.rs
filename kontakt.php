@@ -60,7 +60,9 @@
 
     <div class="map-box">
 
-        <div class="map"></div>
+        <div class="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2809.136366717613!2d19.831162515761395!3d45.24503515606134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475b103e098f6833%3A0x67de28a9e1947374!2sPu%C5%A1kinova+13%2C+Novi+Sad!5e0!3m2!1sen!2srs!4v1565797614723!5m2!1sen!2srs" width="500" height="650" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
 
 
         <div class="form-box" id="form">
@@ -70,7 +72,7 @@
                         <li><i class="fa fa-location-arrow"></i>&nbsp;Puškinova 13, 21000 Novi Sad</li>
                         <li><i class="fa fa-phone-square"></i>&nbsp;062 / 278-559</li>
                         <li><i class="fa fa-phone-square"></i>&nbsp;064 / 481-4516</li>
-                        <li><i class="fa fa-envelope"></i><a href="mailto:info@gardenart.rs">&nbsp;info@gardenart.rs</a></li>
+                        <li><i class="fa fa-envelope"></i><a href="mailto:info@gardenart.rs">&nbsp;gardenart.pro@gmail.com </a></li>
                     </ul>
                 </p>
             </div>
